@@ -19,6 +19,7 @@ body {
     background-position: right top;
   background-repeat: no-repeat;
     background-size: cover;
+    border-top: 10px solid white;
 }
 
 #img-block-1 {
