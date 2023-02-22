@@ -30,25 +30,12 @@ body {
     margin: 5rem 5rem;
 }
 
-.block-txt .head div {
-    background-color: rgb(197, 87, 14);
-    margin-top: 1rem;
-    padding: 0.3rem;
-    width: 7rem;
-    padding-left: 10px;
-}
-
-.block-txt .body {
-    margin-top: 1rem;
-
-}
-#pink-sec {
-    background-color: #c93a76bd;
-    padding: 167px;
-    height: 100vh;
-}
-#white-sec {
-    background-color: white;
-    padding: 100px;
-    height: 100vh;
+#hor{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    width: fit-content;
+    font-size: 3rem;
+    color: white;
+    font-weight: 700;
+    border: 7px solid white;
 }
